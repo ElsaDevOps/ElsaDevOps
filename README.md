@@ -6,7 +6,7 @@ I automate anything I can and build infrastructre that optimises workflows.
 
 My main tech stack is Linux, AWS, Docker, Terraform, GitHub Actions and I'm currently upskilling in Kubernetes!
 
-I have my projects pinned, check out my Visitor Analytics Dashboard!
+I have my projects pinned, check out my [Visitor Analytics Dashboard!](flask_redis_projects)
 
 
 🔭 I’m currently working on ...
