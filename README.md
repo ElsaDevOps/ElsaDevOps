@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**ElsaDevOps/ElsaDevOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Elsa. I'm a DevOps Engineer based in the UK.
 
-Here are some ideas to get you started:
+I automate anything I can and build infrastructre that optimises workflows.
+
+My main tech stack is Linux, AWS, Docker, Terraform, GitHub Actions and I'm currently upskilling in Kubernetes!
+
+I have my projects pinned, check out my Visitor Analytics Dashboard!
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- A highly available Wordpress application deployed to AWS using Terraform
+
 - ⚡ Fun fact: ...
--->
+- I'm a big FC Barcelona fan!
+- I play the guitar (badly)
+- I don't like coffee
