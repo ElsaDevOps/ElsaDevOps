@@ -8,10 +8,12 @@ My main tech stack is Linux, AWS, Docker, Terraform, GitHub Actions and I'm curr
 
 I have my projects pinned, check out my Visitor Analytics Dashboard!
 
-- 🔭 I’m currently working on ...
+
+🔭 I’m currently working on ...
 - A highly available Wordpress application deployed to AWS using Terraform
 
-- ⚡ Fun fact: ...
+
+⚡ Fun fact: ...
 - I'm a big FC Barcelona fan!
 - I play the guitar (badly)
 - I don't like coffee
