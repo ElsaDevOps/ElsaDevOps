@@ -10,7 +10,10 @@ I have my projects pinned, check out my [Highly Available Wordpress App!](https:
 
 
 🔭 I’m currently working on ...
-- A highly available Wordpress application deployed to AWS using Terraform
+- A containerised threat modelling app deployed to AWS ECS Fargate
+- Learning Go
+- Learning Kubernetes
+
 
 
 ⚡ Fun fact: ...
