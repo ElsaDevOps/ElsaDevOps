@@ -11,7 +11,7 @@ I have my projects pinned, check out my [Highly Available Wordpress App!](https:
 
 🔭 I’m currently working on ...
 - A containerised threat modelling app deployed to AWS ECS Fargate
-- Learning Go
+- Learning [Go](https://github.com/ElsaDevOps/go-learning)
 - Learning Kubernetes
 
 
