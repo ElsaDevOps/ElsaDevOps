@@ -2,7 +2,7 @@
 
 My name is Elsa. I'm a DevOps Engineer based in the UK.
 
-I automate anything I can and build infrastructre that optimises workflows.
+I automate anything I can and I strive to build infrastructre that ensures avaliability, reliability and optimises workflows.
 
 My main tech stack is Linux, AWS, Docker, Terraform, GitHub Actions and I'm currently upskilling in Kubernetes!
 
