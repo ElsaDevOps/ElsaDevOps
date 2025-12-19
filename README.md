@@ -10,7 +10,7 @@ I have my projects pinned, check out my [Highly Available Wordpress App!](https:
 
 
 🔭 I’m currently working on ...
-- Containerised Gatus app deployed to AWS ECS Fargate
+- Containerised [Gatus app](https://github.com/ElsaDevOps/Gatus-ECS) deployed to AWS ECS Fargate, with infrastructure managed by Terraform
 - Learning [Go](https://github.com/ElsaDevOps/go-learning)
 - Learning [Kubernetes](https://github.com/ElsaDevOps/Kubernetes)
 
