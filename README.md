@@ -6,11 +6,11 @@ I automate anything I can and I strive to build infrastructre that ensures avali
 
 My main tech stack is Linux, AWS, Docker, Terraform, GitHub Actions and I'm currently upskilling in Kubernetes!
 
-I have my projects pinned, check out my [Highly Available Wordpress App!](https://github.com/ElsaDevOps/terraform-aws-wordpress-ha)
+I have my projects pinned, check out my [Observability ECS Deployment!](https://github.com/ElsaDevOps/Gatus-ECS)
 
 
 🔭 I’m currently working on ...
-- Containerised [Gatus app](https://github.com/ElsaDevOps/Gatus-ECS) deployed to AWS ECS Fargate, with infrastructure managed by Terraform
+- Designing a project using AWS EKS
 - Learning [Go](https://github.com/ElsaDevOps/go-learning)
 - Learning [Kubernetes](https://github.com/ElsaDevOps/Kubernetes)
 
