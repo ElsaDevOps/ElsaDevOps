@@ -15,7 +15,7 @@ I have my projects pinned, check out my [Observability ECS Deployment!](https://
 - Learning [Kubernetes](https://github.com/ElsaDevOps/Kubernetes)
 
 🚀 Open Source Contributions 
-- **Grafana Mimir** - Fixed Web UI links not respecting path-prefix configuration 
+- **Grafana Mimir** - Fixed Web UI links not respecting path-prefix configuration [PR Link](https://github.com/grafana/mimir/pull/14090)
 - **Terraform AWS provider** - Documentation contribution to clarify that user_id_group supports Redis and Valkey
 ⚡ Fun fact: ...
 - I'm a big FC Barcelona fan!
