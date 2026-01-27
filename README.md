@@ -10,7 +10,7 @@ I have my projects pinned, check out my [Observability ECS Deployment!](https://
 
 
 🔭 I’m currently working on ...
-- Designing a project using AWS EKS
+- Building a custom Prometheus exporter for Headscale and Tailscale
 - Learning [Go](https://github.com/ElsaDevOps/go-learning)
 - Learning [Kubernetes](https://github.com/ElsaDevOps/Kubernetes)
 
